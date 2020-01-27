@@ -375,6 +375,10 @@ input, select, textarea {
 		text-align: justify;
 	}
 
+	.content {
+		text-align: justify;
+	}
+
 /* Row */
 
 	.row {
