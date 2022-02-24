@@ -1,7 +1,15 @@
 /* // Map WebAcappella créée avec Open Street Map
 Tonton du Web : www.tontonduweb.com */
 
-#map {
+#map_greeks_third_century {
+	width: 100%;
+	height: 400px;
+	margin: 0;
+	border-radius: 0px;
+	border: 2px solid #3c546b;
+}
+
+#map_punic_hellenistic_period {
 	width: 100%;
 	height: 400px;
 	margin: 0;
